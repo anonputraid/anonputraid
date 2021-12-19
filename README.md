@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonputraid&show_icons=true&theme=dracula)](https://github.com/anonputraid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anonputraid)
 <!--
 **anonputraid/anonputraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
