@@ -1,8 +1,6 @@
 ### Hi there 👋
-<p align="center">
-<img align="center" src=".img/profile.png" width="500"> 
-</p>
 
+[![Corshine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonputraid&show_icons=true&theme=dracula)](https://github.com/anonputraid)
 <!--
 **anonputraid/anonputraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<a href="mailto:anonputraid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/anonputraid/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram_-blue?style=flat-square&logo=instagram"></a>
+
 
 
