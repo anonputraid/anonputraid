@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hello! I’m Zulkarnaen. Here is what i'm working on 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anonputraid)
+## Informatic Engineering | YouTuber | Cyber Security Student | Ethical Hacker
+I am a student who is learning about Cyber security, I really like learning programming languages And hacking related things
+
+- ⚡ Also working on a [YouTube Channel](https://youtube.com/Hacktivity302)
+- 🌱 I'm a student on campus [My E-learning Website](https://stmikdumai.ac.id/)
+- 👯 I’m looking to collaborate with other content creators and sponcorships
+- 🤔 2022 Goals? Contribute more to Open Source projects and learn more
+- 💬 Ask me about Anything related to cyber security,ethical hacking, penetration testing & IT 
+- 📫 How to reach me: instagram [Anonputraid](https://instagram.com/anonputraid)
+- ⚡ Fun fact: I'm Half Finish
+
+
 <!--
 **anonputraid/anonputraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<br/><br/>
-</p>
 
