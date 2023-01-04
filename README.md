@@ -1,6 +1,6 @@
 ### Hello! I’m Zulkarnaen. Here is what i'm working on 👋
 
-## Informatic Engineering | YouTuber | Cyber Security Student | Ethical Hacker
+## [Informatic Engineering](https://stmikdumai.ac.id/wp-content/uploads/2022/04/1-4.jpeg) | [YouTuber](https://www.youtube.com/@Hacktivity302) | [Jr Penetration Tester](.img/Certificate_Jr_Peneration_Tester_THM-HTLECRSYVL.png) | [Dart programming](.img/sertifikat_course_191_2087463_140422065354.pdf) | 
 I am a student who is learning about Information Engineering, I really like learning Programming Languages And hacking. related things.
 
 - ⚡ Also working on a [YouTube Channel](https://youtube.com/Hacktivity302)
