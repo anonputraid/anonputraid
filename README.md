@@ -22,7 +22,4 @@ Other Channels :
 
 📺 [1st YouTube Channel (HackLovers ID)](https://youtube.com/Hacktivity302)
 
-<p align="center">
-  <img src=".img/2023-01-04_17-56.png">
-  <p align="center">Thank You!</p>
-</p>
+Thank You!
