@@ -1,3 +1,7 @@
+<p align="left">
+  <img src=".img/2023-01-04_17-56.png">
+</p>
+
 ### Hello! I’m Zulkarnaen. Here is what i'm working on 👋
 
 ## [Informatic Engineering](https://stmikdumai.ac.id/mahasiswa-teknik-informatika-stmik-dumai-lulus-online-course-microsoft-ocm-iv-tingkat-nasional/) | [YouTuber](https://www.youtube.com/@Hacktivity302) | [Jr Penetration Tester](.img/Certificate_Jr_Peneration_Tester_THM-HTLECRSYVL.png) | [Dart programming](.img/sertifikat_course_191_2087463_140422065354.pdf)
