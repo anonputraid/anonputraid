@@ -1,13 +1,13 @@
 ### Hello! I’m Zulkarnaen. Here is what i'm working on 👋
 
 ## Informatic Engineering | YouTuber | Cyber Security Student | Ethical Hacker
-I am a student who is learning about Cyber security, I really like learning programming languages And hacking related things
+I am a student who is learning about Information Engineering, I really like learning Programming Languages And hacking. related things.
 
 - ⚡ Also working on a [YouTube Channel](https://youtube.com/Hacktivity302)
 - 🌱 I'm a student on campus [My E-learning Website](https://stmikdumai.ac.id/)
-- 👯 I’m looking to collaborate with other content creators and sponcorships
-- 🤔 2022 Goals? Contribute more to Open Source projects and learn more
-- 💬 Ask me about Anything related to cyber security,ethical hacking, penetration testing & IT 
+- 👯 I’m looking to collaborate with other Developers and sponcorships
+- 🤔 2023 Goals? Contribute more to Open Source projects and learn more
+- 💬 Ask me about Anything related to cyber security,ethical hacking, penetration testing & Codeigniter4 
 - 📫 How to reach me: instagram [Anonputraid](https://instagram.com/anonputraid)
 - ⚡ Fun fact: I'm Half Finish
 
