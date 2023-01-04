@@ -1,6 +1,4 @@
-<p align="left">
-  <img src=".img/2023-01-04_17-56.png">
-</p>
+
 
 ### Hello! I’m Zulkarnaen. Here is what i'm working on 👋
 
@@ -24,4 +22,7 @@ Other Channels :
 
 📺 [1st YouTube Channel (HackLovers ID)](https://youtube.com/Hacktivity302)
 
-Thank You!
+<p align="center">
+  <img src=".img/2023-01-04_17-56.png">
+  <p align="center">Thank You!</p>
+</p>
