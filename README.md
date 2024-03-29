@@ -7,7 +7,8 @@
 </p>
 
 <!-- ## [Informatic Engineering](https://stmikdumai.ac.id/mahasiswa-teknik-informatika-stmik-dumai-lulus-online-course-microsoft-ocm-iv-tingkat-nasional/) | [YouTuber](https://www.youtube.com/@Hacktivity302) | [Jr Penetration Tester](.img/Certificate_Jr_Peneration_Tester_THM-HTLECRSYVL.png) | [Dart programming](.img/sertifikat_course_191_2087463_140422065354.pdf) -->
-## [Informatic Engineering]() | [YouTuber]() | [Jr Penetration Tester]() | [Dart programming](https://github.com/anonputraid/anonputraid/blob/main/.img/sertifikat_course_191_2087463_140422065354.pdf)
+
+## [Informatic Engineering](https://stmikdumai.ac.id/mahasiswa-teknik-informatika-stmik-dumai-lulus-online-course-microsoft-ocm-iv-tingkat-nasional/) | [YouTuber](https://youtube.com/Hacktivity302)
 
 I am a student who is learning about Information Engineering, I really like learning Programming Languages And hacking. related things.
 
