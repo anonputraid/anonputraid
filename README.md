@@ -1,16 +1,16 @@
-## Hi there 👋
+```php
+<?php
 
-<!--
-**anonputraid/anonputraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class AboutMe {
+    public string $intro        = 'Hi there, I am ZULKARNAEN.';
+    public string $profession   = 'Fokus saya adalah programmer Web & Android.';
+    public string $languages    = 'PHP, Kotlin, Python, JavaScript';
+    public string $architecture = 'Android Clean Architecture, MVVM Dan MVC';
+    public string $tools        = 'VS Code, Android Studio, Postman, Nodejs';
+    public string $ai_api       = 'Google Gemini API';
+    public string $cloud        = 'Google Cloud Platform (GCP).';
+    public string $os           = 'Ubuntu & Windows';
+    public string $playstore    = 'https://play.google.com/store/apps/developer?id=ZULKARNAEN';
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$me = new AboutMe();
